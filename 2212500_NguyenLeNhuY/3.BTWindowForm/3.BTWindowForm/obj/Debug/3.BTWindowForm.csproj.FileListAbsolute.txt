@@ -1,0 +1,12 @@
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\bin\Debug\3.BTWindowForm.exe.config
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\bin\Debug\3.BTWindowForm.exe
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\bin\Debug\3.BTWindowForm.pdb
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\obj\Debug\3.BTWindowForm.csproj.AssemblyReference.cache
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\obj\Debug\_3.BTWindowForm.frmBai1.resources
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\obj\Debug\_3.BTWindowForm.frmChinh.resources
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\obj\Debug\_3.BTWindowForm.Properties.Resources.resources
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\obj\Debug\3.BTWindowForm.csproj.GenerateResource.cache
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\obj\Debug\3.BTWindowForm.csproj.CoreCompileInputs.cache
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\obj\Debug\3.BTWindowForm.exe
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\obj\Debug\3.BTWindowForm.pdb
+D:\2212500_NguyenLeNhuY\3.BTWindowForm\3.BTWindowForm\obj\Debug\_3.BTWindowForm.frmBai2.resources
