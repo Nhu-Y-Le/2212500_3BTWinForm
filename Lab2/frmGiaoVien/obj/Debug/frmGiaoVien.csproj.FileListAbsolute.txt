@@ -1,0 +1,10 @@
+D:\2212500_NguyenLeNhuY\Lab2\frmGiaoVien\bin\Debug\frmGiaoVien.exe.config
+D:\2212500_NguyenLeNhuY\Lab2\frmGiaoVien\bin\Debug\frmGiaoVien.exe
+D:\2212500_NguyenLeNhuY\Lab2\frmGiaoVien\bin\Debug\frmGiaoVien.pdb
+D:\2212500_NguyenLeNhuY\Lab2\frmGiaoVien\obj\Debug\frmGiaoVien.csproj.AssemblyReference.cache
+D:\2212500_NguyenLeNhuY\Lab2\frmGiaoVien\obj\Debug\frmGiaoVien.frmGiaoVien.resources
+D:\2212500_NguyenLeNhuY\Lab2\frmGiaoVien\obj\Debug\frmGiaoVien.Properties.Resources.resources
+D:\2212500_NguyenLeNhuY\Lab2\frmGiaoVien\obj\Debug\frmGiaoVien.csproj.GenerateResource.cache
+D:\2212500_NguyenLeNhuY\Lab2\frmGiaoVien\obj\Debug\frmGiaoVien.csproj.CoreCompileInputs.cache
+D:\2212500_NguyenLeNhuY\Lab2\frmGiaoVien\obj\Debug\frmGiaoVien.exe
+D:\2212500_NguyenLeNhuY\Lab2\frmGiaoVien\obj\Debug\frmGiaoVien.pdb
